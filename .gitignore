@@ -1,0 +1,9 @@
+node_modules/
+dist/
+out/
+*.dmg
+*.dmg.blockmap
+*.exe
+*.ico
+*.DS_Store
+.DS_Store
